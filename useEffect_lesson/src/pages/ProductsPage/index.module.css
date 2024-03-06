@@ -1,0 +1,10 @@
+.delete_products {
+    width: 220px;
+    background-color: darkcyan;
+    cursor: pointer;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    margin: 20px;
+    font-size: 22px;
+}

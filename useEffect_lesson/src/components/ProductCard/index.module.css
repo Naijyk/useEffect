@@ -1,0 +1,10 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    border: 2px solid darkcyan;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 18px;
+}
